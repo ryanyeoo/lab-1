@@ -6,6 +6,6 @@ code here
 ```link random
 https://github.com/user/repo.git
 ```
-| Left | Center | Right |
-|:-----|:------:|------:|
-| a    |   b    |     c |
+| will | this | work|
+|------|------|-----|
+|a     |b     |c    |
