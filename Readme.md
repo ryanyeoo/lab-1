@@ -8,4 +8,4 @@ https://github.com/user/repo.git
 ```
 |Table|hi|hello|
 ----------------
-|`a`|`b`|`c`|
+|'a'|'b'|'c'|
