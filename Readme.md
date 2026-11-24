@@ -7,5 +7,5 @@ code here
 https://github.com/user/repo.git
 ```
 | will | this | work|
-|------|------|-----|
-|a     |b     |c    |
+|----|---|---|
+|  a     |b     |c|
