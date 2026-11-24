@@ -1,4 +1,7 @@
 # lab1(intro to git hub)
 ```testing
-hey
-```nah
+code here
+```
+```link random
+https://github.com/user/repo.git
+```
